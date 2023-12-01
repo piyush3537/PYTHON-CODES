@@ -1,0 +1,14 @@
+#BASIC PYTHON SYNTAX 10
+# data type
+# operator 10
+# flow control structure 10
+#list 10
+#string 10
+#tuple 10
+#built in python 10
+
+
+#### CODING ####
+flow control structure :5 (5marks)
+string: 5( marks 7)
+list: 5(8 marks)
